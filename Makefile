@@ -1,2 +1,2 @@
 build:
-	docker build -t scanner-nmap .
+	docker build -t rskansing/scanner-nmap .
